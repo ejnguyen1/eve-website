@@ -8,6 +8,9 @@ My name is Eve, and I'm a recent University of California San Diego graduate ori
 In such a saturated job market, it's essential to find a way to set yourself apart from other candidates. I know that I'm more than a resume stating my GPA, skills, and work experience, and I want to have something to show for it---something that helps viewers truly understand the person that I am behind the screen. 
 
 ### Goal
+Of course, I want to create a product that is visually pleasing and user friendly.
+
+On top of this, I want this website to show users who I am as a person, not just as a candidate or a possible connection. I hope that through intentional design, not just the content I display, users gain an understanding of what I'm passionate and curious about, my future aspirations, and my proudest achievements so far. 
 
 ### Impact
 
