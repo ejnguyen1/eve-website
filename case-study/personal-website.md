@@ -15,6 +15,22 @@ On top of this, I want this website to show users who I am as a person, not just
 ### Impact
 
 ### Early Ideation
+#### User Stories
+- As a user, I want to ... so that ...
+
+#### Features
+- Home page
+- About me section
+- Resume walkthrough
+- Portfolio link
+
+#### Wireframes
+
+#### Mockups
+
+#### Style Guide
+
+[Check out my Figma page for this project]()
 
 ### Testing
 
